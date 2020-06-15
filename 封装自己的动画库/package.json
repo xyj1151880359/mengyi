@@ -1,0 +1,16 @@
+{
+  "name": "yq-animate",
+  "version": "0.1.0",
+  "description": "css动画库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "animate",
+    "css-animate",
+    "yq-animate"
+  ],
+  "author": "Sage",
+  "license": "ISC"
+}

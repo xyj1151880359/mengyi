@@ -1,0 +1,21 @@
+{
+  "name": "test-yq",
+  "version": "1.1.1",
+  "description": "hellow word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "yufei":"node ./index.js"
+  },
+  "keywords": [
+    "test-yq"
+  ],
+  "author": "sage",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.5.0"
+  },
+  "dependencies": {
+    "yq-animate": "^0.1.0"
+  }
+}
